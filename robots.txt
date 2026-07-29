@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-coin-karaoke-note.roomlab-dangsan.xyz/sitemap.xml
