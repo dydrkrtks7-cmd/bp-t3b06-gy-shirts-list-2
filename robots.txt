@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinjeong-coin-karaoke-note.roomlab-dangsan.xyz/sitemap.xml
+Sitemap: https://sinjeong-coin-karaoke-note.roomlab-dangsan.xyz/sitemap-pages.xml
